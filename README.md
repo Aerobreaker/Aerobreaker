@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aerobreaker
 - 👀 I’m interested in just programming, honestly.  Anything I can get an idea for
-- 🌱 I’m currently learning Zig
+- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on pretty much anything
 - 📫 How to reach me:
 
